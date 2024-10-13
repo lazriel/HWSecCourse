@@ -57,7 +57,7 @@ By the end of this course, students will be able to:
 - Information Flow (IF) analysis
 - Quantitative Information Flow (QIF) analysis
 
-### Week 11-12: Machine Learning in Hardware Security
+### Week 11: Machine Learning in Hardware Security
 - ML-based side-channel analysis
 - Hardware Trojan detection using ML
 - Adversarial machine learning in hardware security
@@ -66,7 +66,7 @@ By the end of this course, students will be able to:
 - Using ML to break reverse engineering protection techniques
 - Future directions and challenges
 
-### Week 13: Student presentations
+### Week 12: Student presentations
 
 ## Practical Assignments
 
