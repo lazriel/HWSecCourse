@@ -74,7 +74,7 @@ By the end of this course, students will be able to:
 Students will perform a power analysis attack on a provided software or hardware implementation of a cryptographic algorithm. They will collect power traces, analyze the data, and attempt to extract the secret key.
 
 ### Assignment 2: Reverse Engineering (Week 8)
-Students will perform reverse-engineering tasks on a simulation model using of a hardware component using open-source hardware RE tools. As part of the assignment, the students will evaluate various countermeasures against RE. 
+Students will perform reverse-engineering tasks on a simulation model of a hardware component using open-source hardware RE tools. As part of the assignment, the students will evaluate various countermeasures against RE. 
 
 ### Assignment 3: ML-based Hardware Security Analysis (Week 12)
 Students will apply machine learning techniques to a hardware security problem, such as side-channel analysis or Hardware Trojan detection. They will train a model on provided data and evaluate its performance.
@@ -92,7 +92,7 @@ Students will apply machine learning techniques to a hardware security problem, 
 ## Main textbooks and material
 1. Szefer, J. (2022). Principles of Secure Processor Architecture Design. Morgan & Claypool Publishers.
 2. Mukhopadhyay, Debdeep, and Rajat Subhra Chakraborty. Hardware security: design, threats, and safeguards. CRC Press, 2014
-3. Köylü, T., et al. (2023). A Survey on Machine Learning in Hardware Security. ACM Journal on Emerging Technologies in Computing Systems, Volume 19, Issue 2
+3. KÃ¶ylÃ¼, T., et al. (2023). A Survey on Machine Learning in Hardware Security. ACM Journal on Emerging Technologies in Computing Systems, Volume 19, Issue 2
 
 ## Additional Resources
 - Research papers and articles will be provided throughout the course
